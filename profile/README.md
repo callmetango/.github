@@ -4,7 +4,9 @@ The community-driven Sonic Desktop Environment aims to preserve and improve the 
 
 Besides the social media channels mentioned above, you can also reach us at: 
 
-`#sonicde` on irc.libera.chat 
-[Telegram](https://t.me/sonic_de)
-[`#sonicdesktop:matrix.org`](https://matrix.to/#/#sonicdesktop:matrix.org)
-[Discord](https://discord.gg/cNZMQ62u5S)
+## Contacting the SonicDE development team
+
+* `#sonicde` on irc.libera.chat 
+* [Telegram](https://t.me/sonic_de)
+* [`#sonicdesktop:matrix.org`](https://matrix.to/#/#sonicdesktop:matrix.org)
+* [Discord](https://discord.gg/cNZMQ62u5S)
